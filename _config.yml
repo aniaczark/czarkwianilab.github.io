@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Czarkwiani Lab"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Center for Regenerative Therapies Dresden (CRTD) Technische Universitat Dresden"
+  employer         : "Technische Universitat Dresden"
   uri              : # URL
   email            : "none@example.org" 
 
