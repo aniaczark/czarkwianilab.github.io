@@ -24,13 +24,13 @@ repository               : "aniaczark/czarkwianilab.github.io/"
 author:
   # Biographic information
   avatar           : "CZL_Logo_01_TRANSPARENT_BG.png"
-  name             : "Czarkwiani Lab"
+  name             : # "Czarkwiani Lab"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : # "Earth"
   employer         : "Technische Universitat Dresden"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # "none@example.org" 
 
   # Academic websites
   academia         : # URL
