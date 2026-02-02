@@ -14,7 +14,7 @@ citation: 'Anna Czarkwiani et al. ,Molecular basis for de novo thymus regenerati
   <p align="center">
     <img src="{{ site.url }}{{ site.baseurl }}/images/sciimmunol.2025.10.issue-114.largecover.jpg"
          alt="axolotl on the cover of science immunology"
-         style="max-width: 1200px; width: 100%; height: auto;">
+         style="max-width: 1200px; width: 30%; height: auto;">
   </p>
 </div>
 
