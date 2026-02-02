@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         :  ""
+  linkedin         : # ""
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -88,8 +88,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  # conferences:
+  #   title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
