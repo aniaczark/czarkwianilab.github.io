@@ -2,12 +2,13 @@
 title: "Molecular basis for de novo thymus regeneration in a vertebrate, the axolotl"
 collection: publications
 category: manuscripts
-#permalink: 'https://academicpages.github.io/files/paper3.pdf'
+permalink: 'https://academicpages.github.io/files/paper3.pdf'
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2025-12-05
 venue: 'Science Immunology'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://www.science.org/doi/10.1126/sciimmunol.adw9903'
+redirect_to: 'https://www.science.org/doi/10.1126/sciimmunol.adw9903'
 citation: 'Czarkwiani, A, Lobo, M, Bolanos Castro, L et al., Molecular basis for de novo thymus regeneration in a vertebrate, the axolotl. Sci. Immunol.10,eadw9903(2025).DOI:10.1126/sciimmunol.adw9903.'
 ---
 <div class="full">
