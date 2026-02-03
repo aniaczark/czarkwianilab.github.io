@@ -1,7 +1,7 @@
-- title: Project A
-  description: Short description of Project A. Explain goals and methods.
-  image: images/project_a.jpg
+# - title: Project A
+#   description: Short description of Project A. Explain goals and methods.
+#   image: images/project_a.jpg
 
-- title: Project B
-  description: Short description of Project B. Explain goals and methods.
-  image: images/project_b.jpg
+# - title: Project B
+#   description: Short description of Project B. Explain goals and methods.
+#   image: images/project_b.jpg
