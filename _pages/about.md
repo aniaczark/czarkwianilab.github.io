@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biomineralization, gravity sensing and regeneration"
+# title: "Biomineralization, gravity sensing and regeneration"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,7 +22,7 @@ redirect_from:
 </style>
 
 <div class="home-title">
-  Biomineralization, gravity sensing and regeneration
+  Biomineralization, gravity sensing and regeneration Group
 </div>
 
 <p style="text-align:center;">
