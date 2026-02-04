@@ -8,7 +8,7 @@ date: 2024-07-19
 venue: 'Nature Ecology & Evolution'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.nature.com/articles/s41559-024-02456-y'
-citation: 'Parey, E., Ortega-Martinez, O., Delroisse, J. ... Czarkwiani, A, et al. The brittle star genome illuminates the genetic basis of animal appendage regeneration. Nat Ecol Evol 8, 1505–1521 (2024). https://doi.org/10.1038/s41559-024-02456-y'
+citation: 'Parey, E., Ortega-Martinez, O., Delroisse, J. ... Czarkwiani, A, et al. The brittle star genome illuminates the genetic basis of animal appendage regeneration. Nat Ecol Evol 8, 1505–1521 (2024). https://doi.org/10.1038/s41559-024-02456-y. Image credit: Fredrik Pleijel. Cover Design: Vanitha Selvarajan.'
 ---
 <div class="full">
   <p align="left">
