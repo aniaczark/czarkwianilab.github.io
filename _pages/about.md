@@ -40,9 +40,9 @@ redirect_from:
 <p style="text-align:center; display:flex; justify-content:center; gap:2em;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/crtd_logo.png"
        alt="crtd logo"
-       style="height:60px; width:auto;">
+       style="height:80px; width:auto;">
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tud_logo.png"
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tud_logo_trim.png"
        alt="second logo"
        style="height:80px; width:auto;">
 </p>
