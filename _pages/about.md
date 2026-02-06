@@ -47,6 +47,31 @@ redirect_from:
        style="height:60px; width:auto;">
 </p>
 
+<div class="home-text">
+  <p>
+    Our funding
+  </p>
+</div>
+
+<p style="text-align:center; display:flex; justify-content:center; gap:2em;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo_erc.png"
+       alt="erc logo"
+       style="height:60px; width:auto;">
+
+  <img src="{{ site.url }}{{ site.baseurl }}/images/mv_logo.jpg"
+       alt="mv logo"
+       style="height:60px; width:auto;">
+
+  <img src="{{ site.url }}{{ site.baseurl }}/images/crtd_logo.png"
+       alt="crtd logo"
+       style="height:60px; width:auto;">
+  
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tud_logo_trim.png"
+       alt="tud logo"
+       style="height:60px; width:auto;">
+
+</p>
+
 <!-- <div class="home-text">
   <p>
     Our funding
