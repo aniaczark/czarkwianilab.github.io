@@ -4,4 +4,4 @@
 
  - title: Otoconia biomineralization gene regulatory network
    description: Using a combination of state-of-the-art omics approaches (spatial transcriptomics, multiomics and proteomics) we will build a scaffold of a gene regulatory network driving the formation and regeneration of otoconia in the axolotl. We will then use cis-regulatory element predictions, functional perturbation experiments and spatio-temporal gene expression validation to begin untangling the connections between the identified nodes. Our long-term goal is to conduct cross-species comparison studies to study evolution of calcium carbonate biomineralization in deuterostomes.
-   image: images/build_GRN.png
+   image: /images/build_GRN.png
