@@ -42,7 +42,6 @@ Our lab uses the amazing axolotl as a model to understand the biology of gravise
     <div class="research-description">{{ project.description }}</div>
   </div>
   <div class="research-image">
-    ![{{ project.title }}]({{ project.image }})
-  </div>
+  <img src="{{ project.image }}" alt="{{ project.title }}" style="width:180px; height:auto;">
 </div>
 {% endfor %}
