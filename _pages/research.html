@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 <style>
+.research-container {
+  display: flex;
+  flex-direction: column; /* stack all projects vertically */
+  gap: 2.5em; /* space between projects */
+}
+
 .research-item {
   display: flex;
   align-items: flex-start;
@@ -37,13 +43,16 @@ Our lab uses the amazing axolotl as a model to understand the biology of gravise
 
 <div style="height:50px;"></div>
 
+<div class="research-container">
 {% for project in site.data.research %}
-<div class="research-item">
-  <div class="research-info">
-    <div class="research-title">{{ project.title }}</div>
-    <div class="research-description">{{ project.description }}</div>
+  <div class="research-item">
+    <div class="research-info">
+      <div class="research-title">{{ project.title }}</div>
+      <div class="research-description">{{ project.description }}</div>
+    </div>
+    <div class="research-image">
+      <img src="{{ project.image }}" alt="{{ project.title }}" style="width:300px; height:auto;">
+    </div>
   </div>
-  <div class="research-image">
-  <img src="{{ project.image }}" alt="{{ project.title }}" style="width:300px; height:auto;">
-</div>
 {% endfor %}
+</div>
