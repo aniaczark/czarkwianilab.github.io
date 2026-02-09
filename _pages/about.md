@@ -58,9 +58,9 @@ redirect_from:
 </div>
 
 <p style="text-align:center; display:flex; justify-content:center; gap:2em;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo_erc.png"
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo_erc_flag_EU.png"
        alt="erc logo"
-       style="height:100px; width:auto;">
+       style="height:60px; width:auto;">
 
   <img src="{{ site.url }}{{ site.baseurl }}/images/mv_logo.jpg"
        alt="mv logo"
