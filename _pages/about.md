@@ -57,24 +57,32 @@ redirect_from:
   </p>
 </div>
 
-<p style="text-align:center; display:flex; justify-content:center; gap:2em;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo_erc_flag_EU.png"
-       alt="erc logo"
-       style="height:100px; width:auto;">
+<div style="text-align:center; margin-top:2em;">
 
-<div style="height:60px;"></div>
+  <!-- Top single logo -->
+  <div style="margin-bottom:1.5em;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo_erc_flag_EU.png"
+         alt="erc logo"
+         style="height:100px; width:auto;">
+  </div>
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/mv_logo.jpg"
-       alt="mv logo"
-       style="height:60px; width:auto;">
+  <!-- Bottom row with three logos -->
+  <div style="display:flex; justify-content:center; align-items:center; gap:3em; flex-wrap:wrap;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/mv_logo.jpg"
+         alt="mv logo"
+         style="height:60px; width:auto;">
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/crtd_logo.png"
-       alt="crtd logo"
-       style="height:60px; width:auto;">
-  
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tud_logo_trim.png"
-       alt="tud logo"
-       style="height:60px; width:auto;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/crtd_logo.png"
+         alt="crtd logo"
+         style="height:60px; width:auto;">
+
+    <img src="{{ site.url }}{{ site.baseurl }}/images/tud_logo_trim.png"
+         alt="tud logo"
+         style="height:60px; width:auto;">
+  </div>
+
+</div>
+
 
 </p>
 
