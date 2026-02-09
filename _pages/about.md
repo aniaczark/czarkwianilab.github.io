@@ -84,7 +84,7 @@ redirect_from:
 </div>
 
 
-</p>
+
 
 <!-- <div class="home-text">
   <p>
