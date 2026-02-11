@@ -47,8 +47,67 @@ redirect_from:
        style="height:60px; width:auto;">
 </p>
 
+<div class="lab-slideshow">
+  <div class="slides fade">
+    <img src="{{ site.baseurl }}/images/axolotl_1.png" alt="Axolotl 1">
+  </div>
 
-<div style="height:200px;"></div>
+  <div class="slides fade">
+    <img src="{{ site.baseurl }}/images/axolotl_2.png" alt="Axolotl 2">
+  </div>
+
+  <div class="slides fade">
+    <img src="{{ site.baseurl }}/images/axolotl_3.png" alt="Axolotl 3">
+  </div>
+
+  <div class="slides fade">
+    <img src="{{ site.baseurl }}/images/axolotl_4.png" alt="Axolotl 4">
+  </div>
+</div>
+
+<style>
+.lab-slideshow {
+  max-width: 1000px;
+  margin: 2rem auto;
+  position: relative;
+}
+
+.slides {
+  display: none;
+}
+
+.slides img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.fade {
+  animation: fadeEffect 1.5s;
+}
+
+@keyframes fadeEffect {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+</style>
+
+<script>
+let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let slides = document.getElementsByClassName("slides");
+  for (let i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) { slideIndex = 1 }
+  slides[slideIndex-1].style.display = "block";
+  setTimeout(showSlides, 4000); // Change image every 4 seconds
+}
+</script>
+
+<!-- <div style="height:200px;"></div> -->
 
 
 <div class="home-text">
