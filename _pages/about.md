@@ -49,19 +49,19 @@ redirect_from:
 
 <div class="lab-slideshow">
   <div class="slides fade">
-    <img src="{{ site.baseurl }}/images/axolotl_1.png" alt="Axolotl 1">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/axolotl_1.png" alt="Axolotl 1">
   </div>
 
   <div class="slides fade">
-    <img src="{{ site.baseurl }}/images/axolotl_2.png" alt="Axolotl 2">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/axolotl_2.png" alt="Axolotl 2">
   </div>
 
   <div class="slides fade">
-    <img src="{{ site.baseurl }}/images/axolotl_3.png" alt="Axolotl 3">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/axolotl_3.png" alt="Axolotl 3">
   </div>
 
   <div class="slides fade">
-    <img src="{{ site.baseurl }}/images/axolotl_4.png" alt="Axolotl 4">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/axolotl_4.png" alt="Axolotl 4">
   </div>
 </div>
 
