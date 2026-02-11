@@ -68,25 +68,31 @@ redirect_from:
 
 .lab-slider figure {
   position: relative;
-  width: 300%;
+  width: 400%;
   margin: 0;
   left: 0;
   animation: 15s slider infinite;
 }
 
 .lab-slider img {
-  width: 33.333%;
+  width: 25%;
   float: left;
   border-radius: 10px;
 }
 
 @keyframes slider {
-  0% { left: 0; }
-  30% { left: 0; }
-  33% { left: -100%; }
-  63% { left: -100%; }
-  66% { left: -200%; }
-  96% { left: -200%; }
+  0%   { left: 0; }
+  20%  { left: 0; }
+
+  25%  { left: -100%; }
+  45%  { left: -100%; }
+
+  50%  { left: -200%; }
+  70%  { left: -200%; }
+
+  75%  { left: -300%; }
+  95%  { left: -300%; }
+
   100% { left: 0; }
 }
 </style>
