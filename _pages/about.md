@@ -11,12 +11,12 @@ redirect_from:
   text-align: center;
   font-size: 1.6em;
   font-weight: bold;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
 
 .home-text {
   max-width: 800px;
-  margin: 2em auto 0 auto;
+  margin: 1em auto 0 auto;
   text-align: center;
 }
 </style>
