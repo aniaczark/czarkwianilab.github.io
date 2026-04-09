@@ -1,0 +1,51 @@
+---
+layout: archive
+title: "Team"
+permalink: /team/
+author_profile: true
+---
+
+<style>
+.team-member {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 2em;
+}
+
+.team-info {
+  flex: 1;
+  padding-right: 1em;
+}
+
+.team-info .name-position {
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-bottom: 0.3em;
+}
+
+.team-info .bio {
+  font-size: 1em;
+}
+
+.team-photo img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+</style>
+
+<!-- ## Our Team -->
+
+{% for member in site.data.team %}
+<div class="team-member">
+  <div class="team-info">
+    <div class="name-position">{{ member.name }} – {{ member.position }}</div>
+    <div class="bio">{{ member.description }}</div>
+  </div>
+  <div class="team-photo">
+    <img src="{{ site.baseurl }}/images/{{ member.image }}" alt="{{ member.name }}" class="team-photo">
+  </div>
+</div>
+{% endfor %}
+
